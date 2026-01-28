@@ -1,0 +1,1 @@
+built an FAQ chatbot using NLP preprocessing, TF-IDF vectorization, and cosine similarity to match user queries with the most relevant FAQ and display automated responses via a Streamlit interface.
